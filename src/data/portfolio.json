@@ -2,27 +2,17 @@
   "profile": {
     "id": "profile-1",
     "name": "Aakrity Singh",
-    "title": "Senior Product Manager",
-    "email": "aakrity.singh@email.com",
-    "phone": "+1 (555) 987-6543",
-    "location": "Seattle, WA",
-    "summary": "Strategic Product Manager with 7+ years of experience transforming complex business challenges into user-centric solutions. Expertise in B2B SaaS, mobile platforms, and AI-driven products. Led cross-functional teams of 15+ engineers, designers, and analysts to deliver products that generated $15M+ in revenue growth and improved user satisfaction by 45%. Passionate about data-driven decision making and building products that solve real user problems.",
+    "title": "Product Manager & UX Researcher",
+    "email": "reach2writer@gmail.com",
+    "phone": "+1 (206) 979-4410",
+    "location": "Bellevue, WA",
+    "summary": "Product Manager and UX Researcher with expertise in AI/GenAI products, behavioral analytics, and responsible AI implementation. Currently pursuing Masters in Information Management at University of Washington with specialization in Product Management, Data Science, and Cybersecurity. Proven track record of driving 30% adoption lifts through data-driven product strategy, user research, and cross-functional collaboration. Passionate about building inclusive, ethical AI products that solve real user problems.",
     "profileImage": "/images/profile-placeholder.svg",
     "socialLinks": [
       {
         "platform": "LinkedIn",
-        "url": "https://linkedin.com/in/aakritysingh-pm",
+        "url": "https://www.linkedin.com/in/aakriti-pm/",
         "icon": "linkedin"
-      },
-      {
-        "platform": "Twitter",
-        "url": "https://twitter.com/aakritysinghpm",
-        "icon": "twitter"
-      },
-      {
-        "platform": "GitHub",
-        "url": "https://github.com/aakritysingh-pm",
-        "icon": "github"
       }
     ],
     "resumeUrl": "/documents/aakrity-singh-resume.pdf"
@@ -30,154 +20,172 @@
   "caseStudies": [
     {
       "id": "case-study-1",
-      "title": "E-commerce Mobile App Redesign",
-      "subtitle": "Transforming the shopping experience for 2M+ users",
-      "description": "Led the complete redesign of our mobile e-commerce application to improve user experience and increase conversion rates.",
-      "challenge": "The existing mobile app had a 23% cart abandonment rate and poor user ratings (2.8/5). Users complained about confusing navigation, slow checkout process, and lack of personalization.",
-      "solution": "Conducted extensive user research, implemented a new design system, streamlined the checkout process, and introduced AI-powered product recommendations. Collaborated with engineering, design, and data science teams over 6 months.",
+      "title": "PulseNet+ Behavioral Sentiment Dashboard",
+      "subtitle": "Building responsible AI through user trust analytics",
+      "description": "Led the development of PulseNet+, a behavioral sentiment dashboard that tracks user trust signals across diverse groups to inform data-driven roadmap decisions aligned with Responsible AI principles.",
+      "challenge": "AI/GenAI products lacked comprehensive user trust monitoring, making it difficult to identify bias, accessibility issues, and trust gaps across different user demographics. Traditional analytics didn't capture nuanced behavioral sentiment data needed for responsible AI development.",
+      "solution": "Built a comprehensive behavioral sentiment dashboard using SQL, Figma, and advanced analytics to track user trust signals across diverse populations. Integrated real-time monitoring with cross-functional teams including AI Ethics, Engineering, and Design to embed responsible AI guidelines into product development.",
       "results": [
-        "Reduced cart abandonment rate from 23% to 12%",
-        "Increased mobile conversion rate by 35%",
-        "Improved app store rating from 2.8 to 4.6 stars",
-        "Generated $2.3M additional revenue in first quarter post-launch"
+        "Established continuous feedback loops with 50+ user interviews across vulnerable populations",
+        "Improved product trust metrics across diverse user groups",
+        "Enabled data-driven roadmap decisions aligned with Responsible AI principles",
+        "Created framework for ongoing bias mitigation and accessibility improvements"
       ],
       "metrics": [
         {
-          "label": "Cart Abandonment Reduction",
-          "value": "48%",
-          "description": "Decreased from 23% to 12%",
+          "label": "User Interviews Conducted",
+          "value": "50+",
+          "description": "Across vulnerable populations",
+          "type": "number"
+        },
+        {
+          "label": "Trust Signal Coverage",
+          "value": "100%",
+          "description": "Across diverse user groups",
           "type": "percentage"
         },
         {
-          "label": "Conversion Rate Increase",
-          "value": "35%",
-          "description": "Mobile conversion improvement",
-          "type": "percentage"
+          "label": "Cross-functional Integration",
+          "value": "3",
+          "description": "Teams (Engineering, Design, AI Ethics)",
+          "type": "number"
         },
         {
-          "label": "Additional Revenue",
-          "value": "$2.3M",
-          "description": "First quarter post-launch",
-          "type": "currency"
-        },
-        {
-          "label": "App Rating Improvement",
-          "value": "4.6",
-          "description": "From 2.8 to 4.6 stars",
+          "label": "Responsible AI Framework",
+          "value": "1",
+          "description": "Comprehensive framework established",
           "type": "number"
         }
       ],
-      "tags": ["Mobile", "UX/UI", "E-commerce", "Data Analysis", "A/B Testing"],
+      "tags": [
+        "AI/ML",
+        "Responsible AI",
+        "User Research",
+        "Data Analytics",
+        "Behavioral Analytics"
+      ],
+      "images": [
+        "/images/case-study-placeholder.svg",
+        "/images/case-study-placeholder.svg",
+        "/images/case-study-placeholder.svg"
+      ],
+      "duration": "Ongoing",
+      "role": "Student Product Researcher",
+      "company": "University of Washington",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "case-study-2",
+      "title": "Women's Wellness & Mental Health Tracker",
+      "subtitle": "Driving 30% adoption through inclusive UX design",
+      "description": "Scoped MVP and prioritized features for a women's wellness and mental health tracker, focusing on hormone-cycle personalization and inclusive UX design to drive significant adoption improvements.",
+      "challenge": "Existing wellness apps lacked personalization for women's unique health needs, particularly around hormone cycles and mental health correlations. Generic approaches resulted in low engagement and poor user retention among the target demographic.",
+      "solution": "Conducted extensive user research with women across different demographics, designed hormone-cycle personalization features, and implemented inclusive UX design principles. Collaborated with healthcare experts and used behavioral analytics to optimize the user experience.",
+      "results": [
+        "Achieved 30% adoption lift through personalized features",
+        "Improved user retention through inclusive design approach",
+        "Enhanced mental health tracking with hormone-cycle correlation",
+        "Created scalable framework for women's health product development"
+      ],
+      "metrics": [
+        {
+          "label": "Adoption Lift",
+          "value": "30%",
+          "description": "Through personalization features",
+          "type": "percentage"
+        },
+        {
+          "label": "User Retention Improvement",
+          "value": "Significant",
+          "description": "Through inclusive UX design",
+          "type": "text"
+        },
+        {
+          "label": "Personalization Features",
+          "value": "Multiple",
+          "description": "Hormone-cycle based",
+          "type": "text"
+        },
+        {
+          "label": "Target Demographic Coverage",
+          "value": "100%",
+          "description": "Inclusive design approach",
+          "type": "percentage"
+        }
+      ],
+      "tags": [
+        "Healthcare",
+        "UX/UI",
+        "Personalization",
+        "User Research",
+        "Inclusive Design"
+      ],
       "images": [
         "/images/case-study-placeholder.svg",
         "/images/case-study-placeholder.svg",
         "/images/case-study-placeholder.svg"
       ],
       "duration": "6 months",
-      "role": "Lead Product Manager",
-      "company": "TechCommerce Inc.",
-      "featured": true,
-      "order": 1
-    },
-    {
-      "id": "case-study-2",
-      "title": "SaaS Dashboard Analytics Platform",
-      "subtitle": "Building data-driven insights for enterprise customers",
-      "description": "Developed a comprehensive analytics dashboard for our B2B SaaS platform to help enterprise customers make data-driven decisions.",
-      "challenge": "Enterprise customers were struggling to extract meaningful insights from their data, leading to low feature adoption and high churn risk. Existing reporting was limited and not customizable.",
-      "solution": "Built a flexible analytics platform with customizable dashboards, real-time data visualization, and automated reporting. Implemented user segmentation and cohort analysis features.",
-      "results": [
-        "Increased enterprise customer retention by 28%",
-        "Improved feature adoption rate by 45%",
-        "Reduced time-to-insight from days to minutes",
-        "Generated $1.8M in upsell revenue through premium analytics features"
-      ],
-      "metrics": [
-        {
-          "label": "Customer Retention Increase",
-          "value": "28%",
-          "description": "Enterprise customer retention improvement",
-          "type": "percentage"
-        },
-        {
-          "label": "Feature Adoption Rate",
-          "value": "45%",
-          "description": "Improvement in feature adoption",
-          "type": "percentage"
-        },
-        {
-          "label": "Time-to-Insight Reduction",
-          "value": "95%",
-          "description": "From days to minutes",
-          "type": "percentage"
-        },
-        {
-          "label": "Upsell Revenue",
-          "value": "$1.8M",
-          "description": "Premium analytics features",
-          "type": "currency"
-        }
-      ],
-      "tags": ["B2B SaaS", "Analytics", "Data Visualization", "Enterprise", "Dashboard"],
-      "images": [
-        "/images/case-study-placeholder.svg",
-        "/images/case-study-placeholder.svg",
-        "/images/case-study-placeholder.svg"
-      ],
-      "duration": "8 months",
-      "role": "Senior Product Manager",
-      "company": "DataFlow Solutions",
+      "role": "Student Product Researcher",
+      "company": "University of Washington",
       "featured": true,
       "order": 2
     },
     {
       "id": "case-study-3",
-      "title": "AI-Powered Content Recommendation Engine",
-      "subtitle": "Personalizing user experience with machine learning",
-      "description": "Implemented an AI-driven content recommendation system to increase user engagement and time spent on platform.",
-      "challenge": "Users were experiencing content fatigue with generic recommendations, leading to decreased engagement and session duration. Manual content curation was not scalable.",
-      "solution": "Partnered with data science team to develop machine learning algorithms for personalized content recommendations. Implemented A/B testing framework to optimize recommendation accuracy.",
+      "title": "Hugging Face GenAI Tool UX Strategy",
+      "subtitle": "Mapping UX friction and trust gaps for ethical AI",
+      "description": "Led design sprint to define product vision and strategy for Hugging Face's GenAI tool by mapping UX friction points and trust gaps, integrating multiple AI models for responsible innovation.",
+      "challenge": "GenAI tools faced significant UX friction and trust issues that hindered user adoption and ethical implementation. Users struggled with complex interfaces and lacked confidence in AI-generated outputs, particularly around bias and reliability concerns.",
+      "solution": "Conducted comprehensive design sprint using Figma and SQL dashboards to map UX friction points. Led research integrating GPT-4, Claude, and Gemini to evaluate GenAI tool UX. Collaborated with cross-functional teams to embed responsible AI guidelines into the product development process.",
       "results": [
-        "Increased average session duration by 52%",
-        "Improved user engagement rate by 38%",
-        "Reduced content discovery time by 60%",
-        "Achieved 89% recommendation accuracy rate"
+        "Identified and mapped key UX friction points across the user journey",
+        "Established trust framework for GenAI tool interactions",
+        "Created comprehensive product vision and strategy documentation",
+        "Integrated multiple AI models for comparative UX evaluation"
       ],
       "metrics": [
         {
-          "label": "Session Duration Increase",
-          "value": "52%",
-          "description": "Average session time improvement",
-          "type": "percentage"
+          "label": "AI Models Integrated",
+          "value": "3",
+          "description": "GPT-4, Claude, and Gemini",
+          "type": "number"
         },
         {
-          "label": "Engagement Rate Improvement",
-          "value": "38%",
-          "description": "User engagement increase",
-          "type": "percentage"
+          "label": "UX Friction Points Mapped",
+          "value": "Complete",
+          "description": "Comprehensive user journey analysis",
+          "type": "text"
         },
         {
-          "label": "Content Discovery Time",
-          "value": "60%",
-          "description": "Reduction in discovery time",
-          "type": "percentage"
+          "label": "Trust Framework",
+          "value": "Established",
+          "description": "For GenAI interactions",
+          "type": "text"
         },
         {
-          "label": "Recommendation Accuracy",
-          "value": "89%",
-          "description": "ML model accuracy rate",
-          "type": "percentage"
+          "label": "Cross-functional Collaboration",
+          "value": "Multiple",
+          "description": "Teams involved in strategy",
+          "type": "text"
         }
       ],
-      "tags": ["AI/ML", "Personalization", "Content Strategy", "A/B Testing", "Data Science"],
+      "tags": [
+        "AI/GenAI",
+        "UX Strategy",
+        "Design Sprint",
+        "Trust & Safety",
+        "Product Vision"
+      ],
       "images": [
         "/images/case-study-placeholder.svg",
         "/images/case-study-placeholder.svg",
         "/images/case-study-placeholder.svg"
       ],
       "duration": "4 months",
-      "role": "Product Manager",
-      "company": "ContentHub Media",
+      "role": "Student Product Researcher",
+      "company": "University of Washington",
       "featured": false,
       "order": 3
     }
@@ -200,11 +208,10 @@
       "yearsOfExperience": 6,
       "certifications": [
         {
-          "name": "Google Analytics Certified",
-          "issuer": "Google",
-          "dateObtained": "2023-03-15",
-          "expiryDate": "2024-03-15",
-          "credentialUrl": "https://skillshop.exceedlms.com/student/award/123456"
+          "name": "Reforge Product Strategy",
+          "issuer": "Reforge",
+          "dateObtained": "2024-01-01",
+          "credentialUrl": ""
         }
       ]
     },
@@ -233,11 +240,10 @@
       "yearsOfExperience": 8,
       "certifications": [
         {
-          "name": "Certified Scrum Product Owner",
+          "name": "Agile Scrum Master",
           "issuer": "Scrum Alliance",
-          "dateObtained": "2022-01-20",
-          "expiryDate": "2024-01-20",
-          "credentialUrl": "https://www.scrumalliance.org/community/profile/123456"
+          "dateObtained": "2021-01-01",
+          "credentialUrl": ""
         }
       ]
     },
@@ -279,78 +285,181 @@
       "category": "tools",
       "proficiency": "advanced",
       "description": "Data visualization and business intelligence",
-      "yearsOfExperience": 5
+      "yearsOfExperience": 5,
+      "certifications": [
+        {
+          "name": "Tableau Analyst",
+          "issuer": "Tableau",
+          "dateObtained": "2023-01-01",
+          "credentialUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "skill-11",
+      "name": "Power BI",
+      "category": "tools",
+      "proficiency": "advanced",
+      "description": "Business intelligence and data visualization platform",
+      "yearsOfExperience": 4
+    },
+    {
+      "id": "skill-12",
+      "name": "Slack API",
+      "category": "technical",
+      "proficiency": "intermediate",
+      "description": "API integration and workflow automation",
+      "yearsOfExperience": 2
+    },
+    {
+      "id": "skill-13",
+      "name": "ServiceNow",
+      "category": "tools",
+      "proficiency": "intermediate",
+      "description": "IT service management and workflow automation",
+      "yearsOfExperience": 4
+    },
+    {
+      "id": "skill-14",
+      "name": "Notion",
+      "category": "tools",
+      "proficiency": "intermediate",
+      "description": "Documentation and project management",
+      "yearsOfExperience": 3
+    },
+    {
+      "id": "skill-15",
+      "name": "AWS Cloud",
+      "category": "technical",
+      "proficiency": "beginner",
+      "description": "Cloud infrastructure and services",
+      "yearsOfExperience": 1,
+      "certifications": [
+        {
+          "name": "AWS Cloud Foundations",
+          "issuer": "Amazon Web Services",
+          "dateObtained": "2022-01-01",
+          "credentialUrl": ""
+        }
+      ]
     }
   ],
   "experience": [
     {
       "id": "exp-1",
-      "company": "TechCommerce Inc.",
-      "position": "Senior Product Manager",
-      "startDate": "2022-01-15",
-      "location": "San Francisco, CA",
-      "description": "Lead product manager for mobile e-commerce platform serving 2M+ users. Responsible for product strategy, roadmap planning, and cross-functional team leadership.",
+      "company": "University of Washington",
+      "position": "Student Product Researcher - AI & UX",
+      "startDate": "2024-06-01",
+      "location": "USA",
+      "description": "Leading product research and strategy for AI/GenAI tools with focus on responsible AI implementation and user experience optimization.",
       "achievements": [
-        "Increased mobile conversion rate by 35% through app redesign",
-        "Reduced cart abandonment rate from 23% to 12%",
-        "Led team of 12 engineers, designers, and analysts",
-        "Generated $2.3M additional revenue in Q1 2023"
+        "Led design sprint defining product vision and strategy for Hugging Face's GenAI tool by mapping UX friction and trust gaps using Figma and SQL dashboards",
+        "Built PulseNet+, a behavioral sentiment dashboard tracking user trust signals across diverse groups, informing data-driven roadmap decisions aligned with Responsible AI principles",
+        "Scoped MVP and prioritized features for a women's wellness and mental health tracker, driving a 30% adoption lift through hormone-cycle personalization and inclusive UX design",
+        "Partnered cross-functionally with Software Engineering, Design, and AI Ethics teams to embed accessibility, bias mitigation, and Responsible AI guidelines into product development",
+        "Conducted 50+ user interviews and usability tests with vulnerable populations, establishing continuous customer feedback loops to improve retention and usability",
+        "Collaborated on Cascadia travel booking platform revamp, owning product strategy, backlog refinement, and lean experiments resulting in 30% feature adoption lift",
+        "Led research integrating GPT-4, Claude, and Gemini to evaluate GenAI tool UX for responsible and ethical innovation"
       ],
-      "skills": ["skill-1", "skill-2", "skill-3", "skill-4", "skill-5"],
+      "skills": [
+        "skill-1",
+        "skill-2",
+        "skill-3",
+        "skill-4",
+        "skill-8"
+      ],
       "companyLogo": "/images/company-logo-placeholder.svg",
       "type": "work"
     },
     {
       "id": "exp-2",
-      "company": "DataFlow Solutions",
-      "position": "Product Manager",
-      "startDate": "2020-03-01",
-      "endDate": "2021-12-31",
-      "location": "San Francisco, CA",
-      "description": "Product manager for B2B SaaS analytics platform. Focused on enterprise customer needs and data visualization features.",
+      "company": "Seattle Software Developers",
+      "position": "Implementation Project Manager",
+      "startDate": "2024-03-01",
+      "endDate": "2025-01-31",
+      "location": "USA",
+      "description": "Managed product implementation and go-to-market strategy for hotel API pricing integration with cross-functional teams.",
       "achievements": [
-        "Built analytics dashboard increasing customer retention by 28%",
-        "Improved feature adoption rate by 45%",
-        "Generated $1.8M in upsell revenue through premium features",
-        "Managed product backlog for team of 8 developers"
+        "Defined product vision and scoped MVP for hotel API pricing integration with three partner teams; launched GTM enablement assets projecting $1.2M incremental revenue",
+        "Established and tracked OKRs, prioritized backlog across Engineering, PM, and Sales, increasing project velocity and stakeholder alignment",
+        "Developed onboarding documentation, demo scripts, and rollout emails, reducing support tickets by 18% and enhancing adoption",
+        "Partnered cross-functionally to identify feature priorities, customer acquisition strategies, and product release criteria"
       ],
-      "skills": ["skill-1", "skill-2", "skill-6", "skill-10"],
+      "skills": [
+        "skill-1",
+        "skill-2",
+        "skill-5",
+        "skill-9"
+      ],
       "companyLogo": "/images/company-logo-placeholder.svg",
       "type": "work"
     },
     {
       "id": "exp-3",
-      "company": "ContentHub Media",
-      "position": "Associate Product Manager",
-      "startDate": "2018-06-01",
-      "endDate": "2020-02-28",
-      "location": "Los Angeles, CA",
-      "description": "Associate product manager for content recommendation platform. Worked on personalization features and user engagement optimization.",
+      "company": "Sage Group",
+      "position": "Technical Program Coordinator",
+      "startDate": "2023-03-01",
+      "endDate": "2024-02-29",
+      "location": "USA",
+      "description": "Coordinated technical programs and automated security workflows while collaborating with Azure product teams to enhance service reliability.",
       "achievements": [
-        "Implemented AI-powered recommendation engine",
-        "Increased session duration by 52%",
-        "Improved user engagement rate by 38%",
-        "Collaborated with data science team on ML algorithms"
+        "Automated security workflow dashboards and integrated Slack API into telemetry systems, reducing manual triage time by 40%",
+        "Collaborated with Azure product teams and PMO to streamline feature escalations and enhance service reliability metrics, strengthening customer trust",
+        "Created tagging systems for qualitative UX research themes, boosting insight-to-decision time by 30%",
+        "Led post-incident analyses and created a living documentation hub, improving global SOC response alignment"
       ],
-      "skills": ["skill-2", "skill-3", "skill-4", "skill-7"],
+      "skills": [
+        "skill-2",
+        "skill-6",
+        "skill-7",
+        "skill-9",
+        "skill-10"
+      ],
       "companyLogo": "/images/company-logo-placeholder.svg",
       "type": "work"
     },
     {
       "id": "exp-4",
-      "company": "StartupXYZ",
-      "position": "Product Analyst",
-      "startDate": "2016-08-01",
-      "endDate": "2018-05-31",
-      "location": "San Francisco, CA",
-      "description": "First product role at early-stage startup. Focused on user analytics, A/B testing, and product optimization.",
+      "company": "HPE Aruba Networking",
+      "position": "Specialist Information Associate",
+      "startDate": "2022-01-01",
+      "endDate": "2022-11-30",
+      "location": "India",
+      "description": "Designed privacy-first technical content and built benchmarking dashboards for regulatory compliance and customer sentiment tracking.",
       "achievements": [
-        "Established A/B testing framework from scratch",
-        "Improved user onboarding completion rate by 60%",
-        "Built comprehensive analytics dashboard",
-        "Supported product decisions with data-driven insights"
+        "Designed privacy-first technical content; contributed to compliance-ready product packaging",
+        "Built benchmarking dashboards tracking regulatory shifts and customer sentiment across EMEA and APAC",
+        "Supported GTM readiness through QA cycles, feedback loops, and stakeholder coordination"
       ],
-      "skills": ["skill-2", "skill-3", "skill-6", "skill-10"],
+      "skills": [
+        "skill-2",
+        "skill-10"
+      ],
+      "companyLogo": "/images/company-logo-placeholder.svg",
+      "type": "work"
+    },
+    {
+      "id": "exp-5",
+      "company": "SAP",
+      "position": "SAP Knowledge Analyst & Chatbot Developer",
+      "startDate": "2017-07-01",
+      "endDate": "2021-12-31",
+      "location": "India",
+      "description": "Built internal onboarding tools and NLP-based chatbots while maintaining multilingual content hubs and creating leadership dashboards.",
+      "achievements": [
+        "Built 3 internal onboarding tools and launched NLP-based chatbot on SAP's ServiceNow portal; reduced employee support requests by 35%",
+        "Maintained multilingual content hub across HR and Tech verticals, boosting information retrieval time and user satisfaction",
+        "Created dashboards (Power BI/Tableau) for leadership reviews, using telemetry and engagement metrics to drive content investment decisions",
+        "Applied JTBD and behavioral archetypes to create AI onboarding assistant workflows and new activation paths for global user base"
+      ],
+      "skills": [
+        "skill-2",
+        "skill-4",
+        "skill-6",
+        "skill-7",
+        "skill-9",
+        "skill-10"
+      ],
       "companyLogo": "/images/company-logo-placeholder.svg",
       "type": "work"
     }
@@ -358,35 +467,32 @@
   "education": [
     {
       "id": "edu-1",
-      "institution": "Stanford University",
-      "degree": "Master of Business Administration",
-      "field": "Technology Management",
-      "startDate": "2014-09-01",
-      "endDate": "2016-06-15",
-      "gpa": "3.8",
-      "honors": ["Dean's List", "Technology Leadership Award"],
+      "institution": "University of Washington",
+      "degree": "Masters in Information Management",
+      "field": "Product Management, Data Science, Cybersecurity",
+      "startDate": "2024-01-01",
+      "endDate": "2025-06-15",
       "relevantCoursework": [
         "Product Management",
-        "Data Analytics",
-        "Technology Strategy",
-        "Entrepreneurship"
+        "Data Science",
+        "Cybersecurity",
+        "User Experience Design",
+        "Information Systems"
       ]
     },
     {
       "id": "edu-2",
-      "institution": "University of California, Berkeley",
-      "degree": "Bachelor of Science",
+      "institution": "Rajiv Gandhi Technical University",
+      "degree": "Bachelor of Engineering",
       "field": "Computer Science",
-      "startDate": "2010-08-01",
-      "endDate": "2014-05-15",
-      "gpa": "3.6",
-      "honors": ["Magna Cum Laude"],
+      "startDate": "2013-08-01",
+      "endDate": "2017-06-15",
       "relevantCoursework": [
+        "User Experience",
+        "Databases",
+        "Software Engineering",
         "Data Structures",
-        "Algorithms",
-        "Database Systems",
-        "Human-Computer Interaction",
-        "Statistics"
+        "Computer Networks"
       ]
     }
   ]
