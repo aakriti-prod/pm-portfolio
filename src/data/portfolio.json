@@ -1,0 +1,393 @@
+{
+  "profile": {
+    "id": "profile-1",
+    "name": "Aakrity Singh",
+    "title": "Senior Product Manager",
+    "email": "aakrity.singh@email.com",
+    "phone": "+1 (555) 987-6543",
+    "location": "Seattle, WA",
+    "summary": "Strategic Product Manager with 7+ years of experience transforming complex business challenges into user-centric solutions. Expertise in B2B SaaS, mobile platforms, and AI-driven products. Led cross-functional teams of 15+ engineers, designers, and analysts to deliver products that generated $15M+ in revenue growth and improved user satisfaction by 45%. Passionate about data-driven decision making and building products that solve real user problems.",
+    "profileImage": "/images/profile-placeholder.svg",
+    "socialLinks": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/aakritysingh-pm",
+        "icon": "linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://twitter.com/aakritysinghpm",
+        "icon": "twitter"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/aakritysingh-pm",
+        "icon": "github"
+      }
+    ],
+    "resumeUrl": "/documents/aakrity-singh-resume.pdf"
+  },
+  "caseStudies": [
+    {
+      "id": "case-study-1",
+      "title": "E-commerce Mobile App Redesign",
+      "subtitle": "Transforming the shopping experience for 2M+ users",
+      "description": "Led the complete redesign of our mobile e-commerce application to improve user experience and increase conversion rates.",
+      "challenge": "The existing mobile app had a 23% cart abandonment rate and poor user ratings (2.8/5). Users complained about confusing navigation, slow checkout process, and lack of personalization.",
+      "solution": "Conducted extensive user research, implemented a new design system, streamlined the checkout process, and introduced AI-powered product recommendations. Collaborated with engineering, design, and data science teams over 6 months.",
+      "results": [
+        "Reduced cart abandonment rate from 23% to 12%",
+        "Increased mobile conversion rate by 35%",
+        "Improved app store rating from 2.8 to 4.6 stars",
+        "Generated $2.3M additional revenue in first quarter post-launch"
+      ],
+      "metrics": [
+        {
+          "label": "Cart Abandonment Reduction",
+          "value": "48%",
+          "description": "Decreased from 23% to 12%",
+          "type": "percentage"
+        },
+        {
+          "label": "Conversion Rate Increase",
+          "value": "35%",
+          "description": "Mobile conversion improvement",
+          "type": "percentage"
+        },
+        {
+          "label": "Additional Revenue",
+          "value": "$2.3M",
+          "description": "First quarter post-launch",
+          "type": "currency"
+        },
+        {
+          "label": "App Rating Improvement",
+          "value": "4.6",
+          "description": "From 2.8 to 4.6 stars",
+          "type": "number"
+        }
+      ],
+      "tags": ["Mobile", "UX/UI", "E-commerce", "Data Analysis", "A/B Testing"],
+      "images": [
+        "/images/case-study-placeholder.svg",
+        "/images/case-study-placeholder.svg",
+        "/images/case-study-placeholder.svg"
+      ],
+      "duration": "6 months",
+      "role": "Lead Product Manager",
+      "company": "TechCommerce Inc.",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "case-study-2",
+      "title": "SaaS Dashboard Analytics Platform",
+      "subtitle": "Building data-driven insights for enterprise customers",
+      "description": "Developed a comprehensive analytics dashboard for our B2B SaaS platform to help enterprise customers make data-driven decisions.",
+      "challenge": "Enterprise customers were struggling to extract meaningful insights from their data, leading to low feature adoption and high churn risk. Existing reporting was limited and not customizable.",
+      "solution": "Built a flexible analytics platform with customizable dashboards, real-time data visualization, and automated reporting. Implemented user segmentation and cohort analysis features.",
+      "results": [
+        "Increased enterprise customer retention by 28%",
+        "Improved feature adoption rate by 45%",
+        "Reduced time-to-insight from days to minutes",
+        "Generated $1.8M in upsell revenue through premium analytics features"
+      ],
+      "metrics": [
+        {
+          "label": "Customer Retention Increase",
+          "value": "28%",
+          "description": "Enterprise customer retention improvement",
+          "type": "percentage"
+        },
+        {
+          "label": "Feature Adoption Rate",
+          "value": "45%",
+          "description": "Improvement in feature adoption",
+          "type": "percentage"
+        },
+        {
+          "label": "Time-to-Insight Reduction",
+          "value": "95%",
+          "description": "From days to minutes",
+          "type": "percentage"
+        },
+        {
+          "label": "Upsell Revenue",
+          "value": "$1.8M",
+          "description": "Premium analytics features",
+          "type": "currency"
+        }
+      ],
+      "tags": ["B2B SaaS", "Analytics", "Data Visualization", "Enterprise", "Dashboard"],
+      "images": [
+        "/images/case-study-placeholder.svg",
+        "/images/case-study-placeholder.svg",
+        "/images/case-study-placeholder.svg"
+      ],
+      "duration": "8 months",
+      "role": "Senior Product Manager",
+      "company": "DataFlow Solutions",
+      "featured": true,
+      "order": 2
+    },
+    {
+      "id": "case-study-3",
+      "title": "AI-Powered Content Recommendation Engine",
+      "subtitle": "Personalizing user experience with machine learning",
+      "description": "Implemented an AI-driven content recommendation system to increase user engagement and time spent on platform.",
+      "challenge": "Users were experiencing content fatigue with generic recommendations, leading to decreased engagement and session duration. Manual content curation was not scalable.",
+      "solution": "Partnered with data science team to develop machine learning algorithms for personalized content recommendations. Implemented A/B testing framework to optimize recommendation accuracy.",
+      "results": [
+        "Increased average session duration by 52%",
+        "Improved user engagement rate by 38%",
+        "Reduced content discovery time by 60%",
+        "Achieved 89% recommendation accuracy rate"
+      ],
+      "metrics": [
+        {
+          "label": "Session Duration Increase",
+          "value": "52%",
+          "description": "Average session time improvement",
+          "type": "percentage"
+        },
+        {
+          "label": "Engagement Rate Improvement",
+          "value": "38%",
+          "description": "User engagement increase",
+          "type": "percentage"
+        },
+        {
+          "label": "Content Discovery Time",
+          "value": "60%",
+          "description": "Reduction in discovery time",
+          "type": "percentage"
+        },
+        {
+          "label": "Recommendation Accuracy",
+          "value": "89%",
+          "description": "ML model accuracy rate",
+          "type": "percentage"
+        }
+      ],
+      "tags": ["AI/ML", "Personalization", "Content Strategy", "A/B Testing", "Data Science"],
+      "images": [
+        "/images/case-study-placeholder.svg",
+        "/images/case-study-placeholder.svg",
+        "/images/case-study-placeholder.svg"
+      ],
+      "duration": "4 months",
+      "role": "Product Manager",
+      "company": "ContentHub Media",
+      "featured": false,
+      "order": 3
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-1",
+      "name": "Product Strategy",
+      "category": "leadership",
+      "proficiency": "expert",
+      "description": "Developing comprehensive product roadmaps and go-to-market strategies",
+      "yearsOfExperience": 8
+    },
+    {
+      "id": "skill-2",
+      "name": "Data Analysis",
+      "category": "analytics",
+      "proficiency": "advanced",
+      "description": "SQL, Python, and statistical analysis for product insights",
+      "yearsOfExperience": 6,
+      "certifications": [
+        {
+          "name": "Google Analytics Certified",
+          "issuer": "Google",
+          "dateObtained": "2023-03-15",
+          "expiryDate": "2024-03-15",
+          "credentialUrl": "https://skillshop.exceedlms.com/student/award/123456"
+        }
+      ]
+    },
+    {
+      "id": "skill-3",
+      "name": "A/B Testing",
+      "category": "analytics",
+      "proficiency": "advanced",
+      "description": "Designing and analyzing experiments to optimize product performance",
+      "yearsOfExperience": 5
+    },
+    {
+      "id": "skill-4",
+      "name": "User Research",
+      "category": "analytics",
+      "proficiency": "advanced",
+      "description": "Conducting user interviews, surveys, and usability testing",
+      "yearsOfExperience": 7
+    },
+    {
+      "id": "skill-5",
+      "name": "Agile/Scrum",
+      "category": "leadership",
+      "proficiency": "expert",
+      "description": "Leading cross-functional teams using agile methodologies",
+      "yearsOfExperience": 8,
+      "certifications": [
+        {
+          "name": "Certified Scrum Product Owner",
+          "issuer": "Scrum Alliance",
+          "dateObtained": "2022-01-20",
+          "expiryDate": "2024-01-20",
+          "credentialUrl": "https://www.scrumalliance.org/community/profile/123456"
+        }
+      ]
+    },
+    {
+      "id": "skill-6",
+      "name": "SQL",
+      "category": "technical",
+      "proficiency": "advanced",
+      "description": "Complex queries for data analysis and reporting",
+      "yearsOfExperience": 6
+    },
+    {
+      "id": "skill-7",
+      "name": "Python",
+      "category": "technical",
+      "proficiency": "intermediate",
+      "description": "Data analysis, automation, and basic machine learning",
+      "yearsOfExperience": 3
+    },
+    {
+      "id": "skill-8",
+      "name": "Figma",
+      "category": "tools",
+      "proficiency": "intermediate",
+      "description": "Wireframing, prototyping, and design collaboration",
+      "yearsOfExperience": 4
+    },
+    {
+      "id": "skill-9",
+      "name": "Jira",
+      "category": "tools",
+      "proficiency": "expert",
+      "description": "Project management and issue tracking",
+      "yearsOfExperience": 8
+    },
+    {
+      "id": "skill-10",
+      "name": "Tableau",
+      "category": "tools",
+      "proficiency": "advanced",
+      "description": "Data visualization and business intelligence",
+      "yearsOfExperience": 5
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "company": "TechCommerce Inc.",
+      "position": "Senior Product Manager",
+      "startDate": "2022-01-15",
+      "location": "San Francisco, CA",
+      "description": "Lead product manager for mobile e-commerce platform serving 2M+ users. Responsible for product strategy, roadmap planning, and cross-functional team leadership.",
+      "achievements": [
+        "Increased mobile conversion rate by 35% through app redesign",
+        "Reduced cart abandonment rate from 23% to 12%",
+        "Led team of 12 engineers, designers, and analysts",
+        "Generated $2.3M additional revenue in Q1 2023"
+      ],
+      "skills": ["skill-1", "skill-2", "skill-3", "skill-4", "skill-5"],
+      "companyLogo": "/images/company-logo-placeholder.svg",
+      "type": "work"
+    },
+    {
+      "id": "exp-2",
+      "company": "DataFlow Solutions",
+      "position": "Product Manager",
+      "startDate": "2020-03-01",
+      "endDate": "2021-12-31",
+      "location": "San Francisco, CA",
+      "description": "Product manager for B2B SaaS analytics platform. Focused on enterprise customer needs and data visualization features.",
+      "achievements": [
+        "Built analytics dashboard increasing customer retention by 28%",
+        "Improved feature adoption rate by 45%",
+        "Generated $1.8M in upsell revenue through premium features",
+        "Managed product backlog for team of 8 developers"
+      ],
+      "skills": ["skill-1", "skill-2", "skill-6", "skill-10"],
+      "companyLogo": "/images/company-logo-placeholder.svg",
+      "type": "work"
+    },
+    {
+      "id": "exp-3",
+      "company": "ContentHub Media",
+      "position": "Associate Product Manager",
+      "startDate": "2018-06-01",
+      "endDate": "2020-02-28",
+      "location": "Los Angeles, CA",
+      "description": "Associate product manager for content recommendation platform. Worked on personalization features and user engagement optimization.",
+      "achievements": [
+        "Implemented AI-powered recommendation engine",
+        "Increased session duration by 52%",
+        "Improved user engagement rate by 38%",
+        "Collaborated with data science team on ML algorithms"
+      ],
+      "skills": ["skill-2", "skill-3", "skill-4", "skill-7"],
+      "companyLogo": "/images/company-logo-placeholder.svg",
+      "type": "work"
+    },
+    {
+      "id": "exp-4",
+      "company": "StartupXYZ",
+      "position": "Product Analyst",
+      "startDate": "2016-08-01",
+      "endDate": "2018-05-31",
+      "location": "San Francisco, CA",
+      "description": "First product role at early-stage startup. Focused on user analytics, A/B testing, and product optimization.",
+      "achievements": [
+        "Established A/B testing framework from scratch",
+        "Improved user onboarding completion rate by 60%",
+        "Built comprehensive analytics dashboard",
+        "Supported product decisions with data-driven insights"
+      ],
+      "skills": ["skill-2", "skill-3", "skill-6", "skill-10"],
+      "companyLogo": "/images/company-logo-placeholder.svg",
+      "type": "work"
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "institution": "Stanford University",
+      "degree": "Master of Business Administration",
+      "field": "Technology Management",
+      "startDate": "2014-09-01",
+      "endDate": "2016-06-15",
+      "gpa": "3.8",
+      "honors": ["Dean's List", "Technology Leadership Award"],
+      "relevantCoursework": [
+        "Product Management",
+        "Data Analytics",
+        "Technology Strategy",
+        "Entrepreneurship"
+      ]
+    },
+    {
+      "id": "edu-2",
+      "institution": "University of California, Berkeley",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "startDate": "2010-08-01",
+      "endDate": "2014-05-15",
+      "gpa": "3.6",
+      "honors": ["Magna Cum Laude"],
+      "relevantCoursework": [
+        "Data Structures",
+        "Algorithms",
+        "Database Systems",
+        "Human-Computer Interaction",
+        "Statistics"
+      ]
+    }
+  ]
+}
