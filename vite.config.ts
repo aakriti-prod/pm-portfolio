@@ -5,6 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 // https://vite.dev/config/
 export default defineConfig(({ mode }) => {
   return {
+    base: '/portfolio/',
     plugins: [
       react(),
       VitePWA({
@@ -37,9 +38,9 @@ export default defineConfig(({ mode }) => {
           ]
         },
         manifest: {
-          name: 'Sarah Johnson - Product Manager Portfolio',
+          name: 'Aakrity Singh - Product Manager Portfolio',
           short_name: 'PM Portfolio',
-          description: 'Results-driven Product Manager portfolio showcasing 8+ years of experience',
+          description: 'Strategic Product Manager portfolio showcasing 7+ years of experience',
           theme_color: '#2563eb',
           background_color: '#ffffff',
           display: 'standalone',
