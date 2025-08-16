@@ -57,9 +57,7 @@ const Button: React.FC<ButtonProps> = ({
         stiffness: 400,
         damping: 17
       }}
-      initial={{ opacity: 0, y: 20 }}
-      animate={{ opacity: 1, y: 0 }}
-      exit={{ opacity: 0, y: -20 }}
+
       aria-disabled={disabled}
       role="button"
       tabIndex={disabled ? -1 : 0}
