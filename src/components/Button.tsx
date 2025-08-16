@@ -64,14 +64,9 @@ const Button: React.FC<ButtonProps> = ({
       role="button"
       tabIndex={disabled ? -1 : 0}
     >
-      <motion.span
-        className="relative z-10"
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 0.1 }}
-      >
+      <span className="relative z-10">
         {children}
-      </motion.span>
+      </span>
     </motion.button>
   );
 };
