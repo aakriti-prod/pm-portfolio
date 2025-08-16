@@ -226,10 +226,10 @@ const Hero: React.FC<HeroProps> = ({ profile, className = '' }) => {
               className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center lg:justify-start mb-6 sm:mb-8"
             >
               <Button 
-                variant="secondary" 
+                variant="white" 
                 size="lg"
                 onClick={scrollToWork}
-                className="bg-white text-blue-600 hover:bg-blue-50 focus:ring-white touch-optimized w-full sm:w-auto"
+                className="touch-optimized w-full sm:w-auto"
               >
                 <Eye className="w-4 h-4 sm:w-5 sm:h-5 mr-2" />
                 View My Work

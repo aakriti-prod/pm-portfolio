@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 export interface ButtonProps {
   children: React.ReactNode;
-  variant?: 'primary' | 'secondary' | 'outline' | 'ghost';
+  variant?: 'primary' | 'secondary' | 'outline' | 'ghost' | 'white';
   size?: 'sm' | 'md' | 'lg';
   onClick?: () => void;
   disabled?: boolean;
@@ -27,6 +27,7 @@ const Button: React.FC<ButtonProps> = ({
     secondary: 'bg-gray-600 text-white hover:bg-gray-700 focus:ring-gray-500',
     outline: 'border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white focus:ring-blue-500',
     ghost: 'text-gray-600 hover:bg-gray-100 hover:text-gray-900 focus:ring-gray-500',
+    white: 'bg-white text-blue-600 hover:bg-blue-50 focus:ring-white',
   };
 
   const sizeClasses = {
