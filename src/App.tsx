@@ -62,14 +62,12 @@ function App() {
   // Show loading state while data is loading
   if (isLoading || !data) {
     return (
-      <motion.div 
-        className="min-h-screen bg-gray-50 flex items-center justify-center"
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        exit={{ opacity: 0 }}
-      >
-        <LoadingSpinner size="lg" text="Loading portfolio..." variant="dots" />
-      </motion.div>
+      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
+          <p className="text-gray-600">Loading portfolio...</p>
+        </div>
+      </div>
     )
   }
 
