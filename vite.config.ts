@@ -5,7 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 // https://vite.dev/config/
 export default defineConfig(({ mode }) => {
   return {
-    base: '/portfolio/',
+    base: '/pm-portfolio/',
     plugins: [
       react(),
       VitePWA({
